@@ -4,9 +4,12 @@
 🔍 Passionate about solving complex problems with data-driven solutions.
 
 ## 🛠️ Skills
-- **Programming:** Python, C++, SQL
-- **Tools:** Docker, Power BI, PyTorch, TensorFlow
+- **Programming:** Python, C++, SQL,JavaScript, React.js, Gatsby Framework
+- **Scripting:** Shell Scripting, Python Scripting
+- **Tools:** Docker, Power BI, PyTorch, TensorFlow, ZenFlow, Github
 - **Specializations:** Computer Vision, Generative Modeling, Medical Imaging
+- **testing:** Pester Testing, Pytest
+- **Packaging:**Chocolatey, Npm
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mubashir1145/)
