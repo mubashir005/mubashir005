@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mubashir! 👋
 
-<!--
-**mubashir005/mubashir005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Science Engineer specializing in Deep Learning and Artificial Intelligence**  
+🔍 Passionate about solving complex problems with data-driven solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming:** Python, C++, SQL
+- **Tools:** Docker, Power BI, PyTorch, TensorFlow
+- **Specializations:** Computer Vision, Generative Modeling, Medical Imaging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mubashir1145/)
+- [Email](mailto:mubashirulhassan114@gmail.com)
+
+## 🌟 Featured Projects
+- [Representation Learning in Diffusion Models](#)
+- [Assistive Navigation for the Visually Impaired](#)
